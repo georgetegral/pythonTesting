@@ -1,8 +1,8 @@
 import numpy as np
 from matplotlib import pyplot as plt 
 
-deffuncion(x):
-    return4*x**3 - 260*x**2 + 4000*x
+def funcion(x):
+    return 4*x**3 - 260*x**2 + 4000*x
 
 x = np.linspace(-40, 100, 10000)
 
