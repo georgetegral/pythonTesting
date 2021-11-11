@@ -160,10 +160,6 @@ class Estadistica:
 
 
 
-
-
-
-
 def seleccion(seleccion):
 
     if seleccion == 0:
