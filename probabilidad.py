@@ -18,7 +18,6 @@ def moneda_aire(iteraciones):
 
     return lista_iteraciones / iteraciones
 
-
 def factorial(numero):
     if numero <= 1:
         return 1
